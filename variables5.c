@@ -16,5 +16,3 @@ int main()
     cfunction2();
     return 0;
 }
-
-
