@@ -6,4 +6,5 @@ int main()
     char chr = 'a';
     //Some code
     chr = '1';
+    return 0;
 }
