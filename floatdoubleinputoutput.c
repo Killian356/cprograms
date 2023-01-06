@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    //float and double input and output
     float number1;
     double number2;
     printf("Please enter a number:");
