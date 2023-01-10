@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Getting the sizes of integer typesusing sizeof method
+//Getting the sizes of integer types using sizeof method
 int main()
 {
     printf("sizeof(short) = %d bytes\n", sizeof(short));
