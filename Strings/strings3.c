@@ -1,5 +1,5 @@
 #include <stdio.h>
-//How strings shoudl be initialized
+//How strings should be initialized
 int main()
 {
     char c1[] = "abcd";
