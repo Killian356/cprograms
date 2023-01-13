@@ -9,3 +9,8 @@ int main()
     displayString(str); //Passing string into a function.
     return 0;
 }
+void displayString(char str[])
+{
+    printf("String Output: ");
+    puts(str);
+}
